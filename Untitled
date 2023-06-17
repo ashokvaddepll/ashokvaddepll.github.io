@@ -1,7 +1,0 @@
-Experience in developing Spark applications using Spark-SQL in Databricks for data extraction and transformation.
-Responsible for estimating the cluster size, monitoring and troubleshooting of the Spark Databricks cluster.
-Written automation scripts for creating resources in OpenStack cloud using Python and terraform modules.
-Worked on complete Jenkins plugins and administration using Groovy Scripting, setting up CI for new branches, build automation, plugin management and securing Jenkins and setting up master/slave configurations.
-Deployed and configured Git repositories with branching, forks, tagging, and notifications.
-Written groovy scripts to use multi branch pipeline projects in Jenkins to configure it as per the client’s requirements.
-Create AMIs by using Packer for
